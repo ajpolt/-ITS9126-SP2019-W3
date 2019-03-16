@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Digital Plant</string>
+    <string name="you_got_a_new_plant_water_it">You got a new plant. Water it!</string>
+    <string name="water">Water</string>
+    <string name="plant_needs_water">Your plant needs water</string>
+    <string name="plant_died">Your plant died! Water it to revive</string>
+    <string name="plant_blooming">Your plant is blooming!</string>
+    <string name="already_watered">Your plant has plenty of water already. Check back later.</string>
+    <string name="new_plant">New Plant</string>
+    <string name="plant_score_died">Your plant died</string>
+</resources>
